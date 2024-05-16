@@ -3,3 +3,4 @@ shap
 xgboost
 pandas
 matplotlib
+ipython
